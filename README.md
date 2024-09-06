@@ -30,7 +30,7 @@ Act 4 trabajando con listas, tuplas, conjuntos y diccionarios
   ![image](https://github.com/user-attachments/assets/f90b4026-fa6b-4e43-8baf-ef3c98e3604a)
 
 -resultado
-![image](https://github.com/user-attachments/assets/0096c27a-e427-4cdd-bb2d-f467bcd0748d)
+![image](https://github.com/user-attachments/assets/d5e0e0f0-15ae-48df-8387-5c9c2e142be2)
 
 
 
