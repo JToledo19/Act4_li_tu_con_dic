@@ -1,0 +1,25 @@
+arcoiris=("azul", "verde", "rojo", "amarillo")
+print(arcoiris)
+print("--longitud del arcoiris--")
+print (len(arcoiris))
+animales=("pantera",20,"estatura", 1.70)
+print(animales)
+print("los elementos de la tupla")
+print(animales[2]) 
+rateros = ("juana", "pedro", "ana")
+y = list(rateros)
+y[0] = "polainas"
+x = tuple(y)
+print(x)
+print("agregando elementos")
+nanimal=("boby","chetos")
+
+y = list(nanimal)
+print(y)
+y.append("tontolin")
+otratupla= tuple(y)
+
+print (otratupla)
+print("uso de for en tuplas")
+for elcolor in arcoiris:
+    print(elcolor)
